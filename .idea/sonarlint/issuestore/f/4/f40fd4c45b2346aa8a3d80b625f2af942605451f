@@ -1,0 +1,9 @@
+
+^squid:S1192!"GDefine a constant instead of duplicating this literal "scopes" 5 times.(áïø
+fsquid:S3008@"ORename this field "CSRF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ğ³¿
+Ksquid:S28645"4Iterate over the "entrySet" instead of the "keySet".(Ä€İÚ
+lsquid:S3008K"PRename this field "SCOPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êº¡ÿÿÿÿÿ
+^squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(ğ¢Şà
+msquid:S3008B"QRename this field "DENIAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÈ³ úÿÿÿÿ
+]squid:S1192"FDefine a constant instead of duplicating this literal "_csrf" 5 times.(ì²À¨
+osquid:S3008F"SRename this field "TEMPLATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÕéÿøÿÿÿÿ
